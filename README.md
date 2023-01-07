@@ -1,8 +1,8 @@
 # MentalStateTransfer
-Author: Ben
-Version: v0.14
-Date: 06/01/2023
-This document sets out the principles, order of authority and rules of the commune. Subject to change by the author. All new members must agree to this document before taking part in the commune.
+[1]Author: Ben[/1]
+[1]Version: v0.14[/1]
+[1]Date: 06/01/2023[/1]
+[1]This document sets out the principles, order of authority and rules of the commune. Subject to change by the author. All new members must agree to this document before taking part in the commune.[/1]
 # 0) Definitions
 ## 0.1) Commune
 The commune where the members live and socialise, this can either be a physical location or an online meeting place. The commune will most likely be a charity, community interest company or church for tax and legal reasons.
