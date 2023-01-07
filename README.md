@@ -1,4 +1,5 @@
-# MentalStateTransfer
+# My Manifesto
+
 Author: Ben[
 
 Version: v0.14
