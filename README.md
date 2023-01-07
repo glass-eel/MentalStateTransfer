@@ -6,7 +6,7 @@ Version: v0.14
 
 Date: 06/01/2023
 
-[Spanish Transaltion 🇪🇸/🇲🇽](https://github.com/glass-eel/MentalStateTransfer/blob/main/README-Spanish)
+[Spanish Transaltion 🇪🇸/🇲🇽](https://github.com/glass-eel/MentalStateTransfer/blob/main/README-Spanish.md)
 
 This document sets out the principles, order of authority and rules of the commune. Subject to change by the author. All new members must agree to this document before taking part in the commune.
 
