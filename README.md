@@ -1,8 +1,12 @@
 # MentalStateTransfer
-[1]Author: Ben[/1]
-[1]Version: v0.14[/1]
-[1]Date: 06/01/2023[/1]
-[1]This document sets out the principles, order of authority and rules of the commune. Subject to change by the author. All new members must agree to this document before taking part in the commune.[/1]
+[^1]Author: Ben[
+
+[^1]Version: v0.14
+
+[^1]Date: 06/01/2023
+
+[^1]This document sets out the principles, order of authority and rules of the commune. Subject to change by the author. All new members must agree to this document before taking part in the commune.
+
 # 0) Definitions
 ## 0.1) Commune
 The commune where the members live and socialise, this can either be a physical location or an online meeting place. The commune will most likely be a charity, community interest company or church for tax and legal reasons.
@@ -61,6 +65,7 @@ All members are expected to leave everything as they found it, to use all resour
 No being a dick to anyone else, everyone in the community is like minded and expected to get on with each other. 
 ## 3.6) No runs on shops
 Just because everything is free doesn’t mean take as much as you can. Take only as much as you need, so if your old tv is broken to the point where you cant watch it then you can take one, but don’t go take one just because.
+
 # 4) Justice
 ## 4.1) No Police/non-commune authority
 No calling the ”police”/”authorities”, except in the case of a super serious crime (such as murder or rape). In all cases where possible use the communes dispute resolution, this is in order to 
@@ -71,6 +76,7 @@ This goes back to 1.1, the leader (or member with delegated authority) can give 
     3. Expulsion from the commune (may be with or without starting contribution)
 ## 4.3) No prisons
 No wasting time and money looking after people who have committed horrible crimes, instead either re-education or execution for the most serious crimes.
+
 # 5) Scenarios
 ## 5.1) Eating
 You may eat whatever there is available, however you are expected to only cook what you will eat and to be mindful of waste. Wash up immediately or as soon as possible for larger meals. Put away everything as soon as it is washed and dry (should not be more than a few minutes after you are finished eating)
