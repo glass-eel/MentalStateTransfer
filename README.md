@@ -1,11 +1,11 @@
 # MentalStateTransfer
-[^1]Author: Ben[
+[^1]: Author: Ben[
 
-[^1]Version: v0.14
+[^1]: Version: v0.14
 
-[^1]Date: 06/01/2023
+[^1]: Date: 06/01/2023
 
-[^1]This document sets out the principles, order of authority and rules of the commune. Subject to change by the author. All new members must agree to this document before taking part in the commune.
+[^1]: This document sets out the principles, order of authority and rules of the commune. Subject to change by the author. All new members must agree to this document before taking part in the commune.
 
 # 0) Definitions
 ## 0.1) Commune
